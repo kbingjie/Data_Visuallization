@@ -4,16 +4,16 @@
  - Python, Matlibplot, Pandas are used in this# Data_Visuallization
 
 ##### Bar Chart
-<img src="/image/BarChart.png" alt="Bar Chart" width="600"/>
+<img src="/images/BarChart.png" alt="Bar Chart" width="600"/>
 
 ##### Histogram
-<img src="/image/Histogram.png" alt="Histogram" width="600"/>
+<img src="/images/Histogram.png" alt="Histogram" width="600"/>
 
 ##### Mosic Plot
-<img src="/image/MosicPlot.png" alt="Mosic Plot" width="600"/>
+<img src="/images/MosicPlot.png" alt="Mosic Plot" width="600"/>
 
 ##### Parallel Coordinates
-<img src="/image/ParallelCoordinates.png" alt="Parallel Coordinates" width="600"/>
+<img src="/images/ParallelCoordinates.png" alt="Parallel Coordinates" width="600"/>
 
 ##### Pie Chart
-<img src="/image/PieChart.png" alt="Pie Chart" width="600"/>
+<img src="/images/PieChart.png" alt="Pie Chart" width="600"/>
